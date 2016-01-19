@@ -75,6 +75,10 @@ html, body {
   color: #004c66;
 }
 
+.error-page ul li a:hover {
+  text-decoration: underline;
+}
+
 .error-page .list-menu {
   margin-bottom: 25px;
 }
